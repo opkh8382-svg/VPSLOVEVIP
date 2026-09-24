@@ -1,0 +1,5 @@
+.env
+*.db
+*.mp3
+__pycache__/
+*.pyc
